@@ -1,2 +1,2 @@
 # vuex
-vuex tutorial
+vuex tutorial - learn vuex
