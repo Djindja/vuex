@@ -1,6 +1,6 @@
-# n
+# vuex
 
-> n
+> vuex
 
 ## Build Setup
 
